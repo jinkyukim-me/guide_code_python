@@ -1,1 +1,17 @@
-#All organizations start with WHY, but only the great ones keep their clear year after year
+## 목차
+
+### 파이썬 기초 1 
+
+* [Who needs Python?]
+* [마천루]
+* [3, 6, 9!]
+* [수타박수]
+* [교수님의 마음으로 II]
+
+### 파이썬 기초 2
+
+* [시끌시끌 동물농장]
+* [절사평균]
+* [Now you CODE me]
+* [하늘성]
+* [삼각형 만들기]
